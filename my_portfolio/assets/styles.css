@@ -3,9 +3,9 @@
 header {
     width: 1000px;
     height: 250px;
-    background-image: url(../../../Project%203/my_portfolio/header1000.jpg);   
-	background-size: cover;
-	background-repeat: no-repeat;
+    background-image: url(../images/header1000.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 /*Float the Main so it shows up next to the Aside. Reduce width by 150px so they both line up wi the header.*/
